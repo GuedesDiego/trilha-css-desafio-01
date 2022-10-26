@@ -1,3 +1,6 @@
+@media only screen and (max-device-width: 900px) {
+    
+    }
 body {
     background-color: black;
   }
@@ -64,7 +67,7 @@ body {
     height: 100%;
     object-fit: contain;
   }
-  .banner .banner-content input {
+  .banner .banner-content button {
   color: #31A8DD;
   font-size: 1rem;
   font-weight: bold;
@@ -100,7 +103,7 @@ body {
   #transform-world {
     height: 56px;
     background-size: cover;
-    background-image: url("https://s2.glbimg.com/T5f0GZS9VxEzuH-kffRfBh8OtwA=/0x0:1280x867/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/Y/O/BNbWFgS2KOwcbcMiSDjQ/whatsapp-image-2022-10-14-at-20.56.21.jpeg");
+    background-image: url("../images/woman-code.png");
     background-attachment: fixed;
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
